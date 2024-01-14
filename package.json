@@ -1,10 +1,10 @@
 {
   "author": "Zero65 Technologies Pvt. Ltd.",
-  "name": "@zero65/eslint",
+  "name": "eslint-config-zero65",
   "version": "0.0.1",
   "description": "Zero65 Eslint config",
   "license": "MIT",
-  "main": "zero65-eslint.json",
+  "main": "zero65-eslint.js",
   "scripts": {
   },
   "dependencies": {
