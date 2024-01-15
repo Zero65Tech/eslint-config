@@ -5,6 +5,10 @@
   "description": "Zero65 Eslint config",
   "license": "MIT",
   "main": "zero65-eslint.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zero65Tech/eslint-config.git"
+  },
   "scripts": {
   },
   "dependencies": {
