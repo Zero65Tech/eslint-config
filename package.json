@@ -1,6 +1,6 @@
 {
   "author": "Zero65 Technologies Pvt. Ltd.",
-  "name": "@zero65tech/eslint-config-zero65",
+  "name": "@zero65/eslint",
   "version": "0.0.1",
   "description": "Zero65 Eslint config",
   "license": "MIT",
