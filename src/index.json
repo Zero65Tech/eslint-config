@@ -10,7 +10,9 @@
   },
   "plugins": [ "@stylistic/js" ],
   "rules": {
-    "@stylistic/js/arrow-spacing": [ "error", { "before": true, "after": true } ],
+    "@stylistic/js/arrow-spacing": [ "error", {
+      "before": true, "after": true
+    }],
     "@stylistic/js/indent": [ "error", 2, {
       "CallExpression": { "arguments": 2 },
       "MemberExpression": 2
