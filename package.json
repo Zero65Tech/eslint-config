@@ -1,7 +1,7 @@
 {
   "author": "Jai Gupta, Zero65 Technologies Pvt. Ltd.",
-  "name": "@zero65/eslint",
-  "version": "0.0.1",
+  "name": "@zero65/eslint-config",
+  "version": "0.0.2",
   "description": "Zero65 Eslint Config",
   "license": "MIT",
   "repository": {
@@ -11,7 +11,9 @@
   "keywords": [],
   "main": "src/index.js",
   "scripts": {},
-  "dependencies": {},
+  "dependencies": {
+    "@stylistic/eslint-plugin-js": "1.5.x"
+  },
   "devDependencies": {},
   "publishConfig": {
     "access": "public"
