@@ -35,7 +35,16 @@
       "anonymous": "always",
       "named": "never",
       "asyncArrow": "always"
-    }]
+    }],
+
+    "@stylistic/js/space-in-parens": [ "error", "never" ],
+
+    "@stylistic/js/comma-spacing": [ "error", {
+      "before": false,
+      "after": true
+    }],
+
+    "@stylistic/js/space-infix-ops": "error"
 
   }
 }  
