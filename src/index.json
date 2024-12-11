@@ -4,12 +4,14 @@
     "jest": true,
     "node": true
   },
-  "extends": "eslint:recommended",
+  "extends": [ "eslint:recommended", "plugin:jsonc/recommended-with-json" ],
   "parserOptions": {
     "ecmaVersion": "latest"
   },
   "plugins": [ "@stylistic/js" ],
   "rules": {
+
+    "jsonc/indent": [ "error", 2 ],
 
     "@stylistic/js/indent": [ "error", 2, {
       "CallExpression": { "arguments": 2 },
