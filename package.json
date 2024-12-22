@@ -15,7 +15,7 @@
   "main": "src/index.json",
   "scripts": {},
   "dependencies": {
-    "@stylistic/eslint-plugin-js": "1.5.x",
+    "@stylistic/eslint-plugin-js": "2.12.x",
     "eslint-plugin-jsonc": "2.18.x"
   },
   "devDependencies": {},
