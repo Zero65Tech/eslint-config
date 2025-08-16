@@ -6,7 +6,8 @@
   },
   "extends": [ "eslint:recommended", "plugin:jsonc/recommended-with-json" ],
   "parserOptions": {
-    "ecmaVersion": "latest"
+    "ecmaVersion": "latest",
+    "sourceType": "module"
   },
   "plugins": [ "@stylistic/js" ],
   "rules": {
